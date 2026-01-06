@@ -26,9 +26,9 @@ I regularly stream on Twitch.
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/DeVerino-DVR">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeVerino-DVR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeVerino-DVR&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/ImMatheoOff">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImMatheoOff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImMatheoOff&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
 ---
