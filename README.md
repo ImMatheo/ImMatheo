@@ -26,9 +26,9 @@ I regularly stream on Twitch.
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/ImMatheoOff">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImMatheoOff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImMatheoOff&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/ImMatheo">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImMatheo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImMatheo&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
 ---
@@ -43,10 +43,10 @@ I regularly stream on Twitch.
 
 ## 📈 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=ImMatheoOff&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ImMatheo&color=blue)
 
 ---
 
 **Last Updated:** 05/01/2026  
 
-⭐️ From [ImMatheoOff-MTO](https://github.com/ImMatheoOff)
+⭐️ From [ImMatheo-MTO](https://github.com/ImMatheo)
